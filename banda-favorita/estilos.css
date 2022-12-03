@@ -1,0 +1,46 @@
+body{
+    background-color: rgba(245, 244, 238, 0.664);
+    -ms-ime-align: center;
+}
+h1,h3{
+    color:rgb(10, 10, 10);
+    text-align: center;
+}
+p{
+    color:rgb(20, 20, 20);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.parrafo-rojo{
+    color:rgb(3, 3, 3);
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+/*#imagen-borde{
+    border-width: 5px;
+    border-color:rgb(118, 70, 163);
+}*/
+.bibliografia{
+border-image: 5px;
+border-color: blueviolet;
+
+}
+a{
+    color: blueviolet;
+}
+h2{
+    color: rgb(79, 134, 134);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ol,ul{
+    color: rgb(8, 8, 8);
+    font-size: 50px;
+}
+.bts3{
+   border-radius: 5px; 
+   border-color: rgb(10, 10, 10);
+   border-width: 5px;
+   border-style: solid;
+}
